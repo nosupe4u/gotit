@@ -10,7 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var gotit = 100
+    var gotit = 1
+    var gotit2 = 6493
     
     override func viewDidLoad() {
         super.viewDidLoad()
